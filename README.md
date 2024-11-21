@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://fb.com/hieu.truoq.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieu.truoq.90" height="30" width="40" /></a>
 </p>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hammond01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hammond01" height="30" width="40" /></a>
 </p>
 
