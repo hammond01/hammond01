@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 - 🌱 I’m currently learning **Reactjs, Entity, Spring boot, Angular.**
 
-- 💬 Ask me about **.Net core, Java, JavaScript, Entity.**
+- 💬 Ask me about **.NET CORE, JAVA, JAVA SCRIPT.**
 
 - 📫 How to reach me **hieutruonghoang01@gmail.com**
 
